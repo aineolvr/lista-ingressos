@@ -209,6 +209,8 @@ border-bottom: 1px solid #D9D9D9;
     font-size: 21px;
 }
 
+
+
 .div-content .mdc-button{
     background-color: black;
     color: rgb(242, 237, 237);
@@ -1572,6 +1574,9 @@ tbody  td{
     height: 48px;
 }
 
+.label-edit-menu-menor{
+    font-size: 13px;
+}
 
 
   @media screen and (max-width: 768px) {
